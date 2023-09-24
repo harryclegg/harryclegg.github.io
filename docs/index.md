@@ -1,8 +1,10 @@
 ## Harry Clegg
 
-Harry received his Electronic Engineering MEng from the University of Leeds in 2018. During his time at Leeds, he found himself developing a keen interest in embedded systems, software development, and digital signal processing. 
+I received the Electronic Engineering MEng degree from the University of Leeds in 2018. During my time at Leeds, I found myself developing a keen interest in embedded systems, software development, and digital signal processing. 
 
-Harry decided to stay and pursue a PhD in Electrical and Electronic Engineering at the University of Leeds within the [Ultrasound Group](https://uarp.co.uk) under Dr David Cowell and Professor Steven Freear. He was awarded the degree in April 2023. Harry's thesis was titled *[Integrated control and signal processing software for next generation open ultrasound research platforms](https://etheses.whiterose.ac.uk/32659/)*. 
+I decided to stay and pursue a PhD in Electrical and Electronic Engineering at the University of Leeds within the [Ultrasound Group](https://uarp.co.uk) under Dr David Cowell and Professor Steven Freear, and was awarded the degree in April 2023. My thesis was titled *[Integrated control and signal processing software for next generation open ultrasound research platforms](https://etheses.whiterose.ac.uk/32659/)*. 
+
+I am now undertaking a postdoc in Kullervo Hynynen's [Focused Ultrasound Lab](https://sunnybrook.ca/research/content/?page=sri-groups-fus) at Sunnybrook Research Institute, in Toronto, Canada.
 
 ## Selected Publications
 
